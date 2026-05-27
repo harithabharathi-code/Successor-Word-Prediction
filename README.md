@@ -7,3 +7,6 @@ Technologies Used:
 - Python
 - NLP
 - TensorFlow/Keras
+
+Web application:
+https://drvjds.shinyapps.io/PredictWord/
